@@ -5,7 +5,7 @@ public class EmployeeController {
 		return "empList";
 	}
 
-	public int updateEmployee(){
+	public ResultUtils updateEmployee(){
 		return "status";
 	}
 }
